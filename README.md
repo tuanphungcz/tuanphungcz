@@ -3,7 +3,7 @@
 👨‍💻 &nbsp;**Senior Frontend developer with over 6 years of experience.**
 
 
-- 🛠️  &nbsp;Building web applications with Typescript
+- 🛠️  &nbsp;Building web applications with Typescript & Javascript
 - 🔥 &nbsp;Building a SaaS hobby [Notionlist.io](https://notionlist.io/) 
 - 📙 &nbsp;Currently learning Nest.js and Solidity
 - - 📫 &nbsp;How to reach me: `tuan at phung dot cz`
