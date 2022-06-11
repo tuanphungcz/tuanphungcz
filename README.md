@@ -5,8 +5,9 @@ Senior Frontend developer with over 6 years of experience.
 - 🔭 &nbsp;Building web applications with Javascript & Typescript
 - 🌱 &nbsp;Currently learning Nest.js and Solidity
 - 👨‍💻 &nbsp;Building a SaaS hobby [Notionlist.io](https://notionlist.io/) 
-- ⚡ &nbsp;Open-sourced a react library [React-useAnimations](https://github.com/useAnimations/react-useanimations) [![npm downloads](https://img.shields.io/npm/dm/react-useanimations.svg?style=flat)](https://www.npmjs.com/package/react-useanimations)
 - 📫 &nbsp;How to reach me: `tuan at phung dot cz`
+- ⚡ &nbsp;Open-sourced a react library [React-useAnimations](https://github.com/useAnimations/react-useanimations) [![npm downloads](https://img.shields.io/npm/dm/react-useanimations.svg?style=flat)](https://www.npmjs.com/package/react-useanimations)
+
 
 
 📕 &nbsp;**Latest Blog Posts**
