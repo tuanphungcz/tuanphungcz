@@ -1,4 +1,4 @@
-### Hi there, I'm Tuan <a href="https://www.phung.cz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+### Hey there, I'm Tuan <a href="https://www.phung.cz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 👨‍💻 &nbsp;**Senior Frontend developer with over 6 years of experience.**
 
