@@ -4,7 +4,7 @@
 
 
 - 🛠️  &nbsp;Building web applications with Typescript & Javascript
-- 📫 &nbsp;How to reach me: `tuan at phung dot cz`
+- 📫 &nbsp;Reach me: `tuan@phung.cz`
 - ⚡ &nbsp;Open-sourced a react library [React-useAnimations](https://github.com/useAnimations/react-useanimations) [![npm downloads](https://img.shields.io/npm/dm/react-useanimations.svg?style=flat)](https://www.npmjs.com/package/react-useanimations)
 
 
