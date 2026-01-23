@@ -4,7 +4,7 @@
 
 
 - 🛠️  &nbsp;Building web applications with Typescript & Javascript
-- 📫 &nbsp;Reach me: `16448321+tuanphungcz@users.noreply.github.com`
+
 - ⚡ &nbsp;Open-sourced a react library [React-useAnimations](https://github.com/useAnimations/react-useanimations) [![npm downloads](https://img.shields.io/npm/dm/react-useanimations.svg?style=flat)](https://www.npmjs.com/package/react-useanimations)
 
 
